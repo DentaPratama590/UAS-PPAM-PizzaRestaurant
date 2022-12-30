@@ -1,5 +1,6 @@
 # UAS Praktikum PAM
-### Denta (1187050020
+### Denta Pratama Anggayana
+### 1187050020
 
 ### Usage API
 ` https://retoolapi.dev/StWODX/uasresto `
